@@ -26,6 +26,10 @@
   - [Langflow](https://github.com/langflow-ai/langflow)
 - 工作流与网页制作结合
 - 2025年4月Coze平台起飞
+2024.4.22
+n8n https://github.com/n8n-io/n8n
+flowiseai https://github.com/FlowiseAI/Flowise
+make https://academy.make.com/ 不太行
 
 ## 其他重要时刻
 - 2025.4 - Coze平台快速发展
