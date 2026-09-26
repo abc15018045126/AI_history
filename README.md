@@ -40,6 +40,16 @@ make https://academy.make.com/ 不太行
 # AI发展历史里程碑
 
 ## 聊天机器人
+- **gemini 2.5** - 这个是真的好用
+- **ChatGPT** - 4o不免费了
+
 
 
 ## 图像生成
+- Stable Diffusion 图像，开源的，最好用的模型了
+- 即梦 还是强啊
+- Bing Image Creator 必应的
+-  Firefly (Adobe)
+- 谷歌家的
+- sora opean ai
+- ComfyUI: 特点: 一个基于节点图的 Stable Diffusion 工作流程工具。
